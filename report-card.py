@@ -1,4 +1,4 @@
-# This is a simple one person report card
+# This is a simple one person student report card
 
 student_name = 'Stephen' # student's name
 print(student_name, type(student_name)) # output: student_name, data type
